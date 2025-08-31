@@ -8,6 +8,8 @@
 *.fdb_latexmk
 *.bbl
 *.blg
+*.listing
+*.nlo
 
 # Dossiers temporaires
 *.cache/
